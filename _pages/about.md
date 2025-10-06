@@ -27,17 +27,17 @@ My name is Zhang Haoyu. I am currently pursuing a Ph.D. in Computer Science at t
 
 
 
-- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF A</span> [STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization], **Haoyu Zhang**, Wentao Zhang, Hao Miao, Xinke Jiang, Yuchen Fang, Yifan Zhang. **NeurIPS 2025**
+- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF A</span> [STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](https://howeyz.github.io/), **Haoyu Zhang**, Wentao Zhang, Hao Miao, Xinke Jiang, Yuchen Fang, Yifan Zhang. **NeurIPS 2025**
 
-- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF B</span> [Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective], **Haoyu Zhang**, Yuxuan Cheng, Wenqi Fan, Yulong Chen, Yifan Zhang. **ECML-PKDD 2025**
+- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF B</span> [Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective]((https://howeyz.github.io/)), **Haoyu Zhang**, Yuxuan Cheng, Wenqi Fan, Yulong Chen, Yifan Zhang. **ECML-PKDD 2025**
 
-- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF B, Q1 Top</span> [IMCSN: An improved neighborhood aggregation interaction strategy for multi-scale contrastive Siamese networks], **Haoyu Zhang**, Daoli Wang, Wangshu Zhao, Zitong Lu, Xuchu Jiang. **Pattern Recognition**
+- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF B, Q1 Top</span> [IMCSN: An improved neighborhood aggregation interaction strategy for multi-scale contrastive Siamese networks]((https://howeyz.github.io/)), **Haoyu Zhang**, Daoli Wang, Wangshu Zhao, Zitong Lu, Xuchu Jiang. **Pattern Recognition**
 
-- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF C, Q1 Top</span> [ConUMIP: Continuous-time dynamic graph learning via uncertainty masked mix-up on representation space], **Haoyu Zhang**, Xuchu Jiang. **Knowledge-Based Systems**
+- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF C, Q1 Top</span> [ConUMIP: Continuous-time dynamic graph learning via uncertainty masked mix-up on representation space]((https://howeyz.github.io/)), **Haoyu Zhang**, Xuchu Jiang. **Knowledge-Based Systems**
 
-- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF A</span> [TC-RAG: Turing-Complete RAG's case study on medical llm systems], Xinke Jiang, Yue Fang, Rihong Qiu, Haoyu Zhang, Yongxin Xu, Hao Chen, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang. **ACL 2025 Oral**
+- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF A</span> [TC-RAG: Turing-Complete RAG's case study on medical llm systems]((https://howeyz.github.io/)), Xinke Jiang, Yue Fang, Rihong Qiu, Haoyu Zhang, Yongxin Xu, Hao Chen, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang. **ACL 2025 Oral**
 
-- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF A</span> [Time series supplier allocation via deep black-litterman model], Xinke Jiang, Wentao Zhang, Yuchen Fang, Xiaowei Gao, Hao Chen, Haoyu Zhang, Dingyi Zhuang, Jiayuan Luo. **AAAI 2025 Oral**
+- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF A</span> [Time series supplier allocation via deep black-litterman model]((https://howeyz.github.io/)), Xinke Jiang, Wentao Zhang, Yuchen Fang, Xiaowei Gao, Hao Chen, Haoyu Zhang, Dingyi Zhuang, Jiayuan Luo. **AAAI 2025 Oral**
 
 
 
