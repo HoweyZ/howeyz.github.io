@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Zhang Haoyu. I am currently pursuing a Ph.D. in Computer Science at the School of Computing, City University of Hong Kong (September 2025 - present). I completed my undergraduate studies in Financial Mathematics at Zhongnan University of Economics and Law (September 2021 - June 2025). My research interests include spatiotemporal data mining, graph neural networks, AI for science, and large language models.
+My name is Zhang Haoyu. I am currently pursuing a Ph.D. in the Department of Computer Science at the College of Computing, City University of Hong Kong (September 2025 - present). I completed my undergraduate studies in Financial Mathematics at Zhongnan University of Economics and Law (September 2021 - June 2025). My research interests include spatiotemporal data mining, graph neural networks, AI for science, and large language models.
 
 
 # 🔥 News
