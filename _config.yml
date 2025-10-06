@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoyu Zhang"
-description              : "Welcome to my homepage!"
+description              : 
 repository               : "HoweyZ/howeyz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoyu Zhang"
   avatar           : "images/citations.jpeg"
-  bio              : "City University of Hong Kong"
+  bio              : "Treat yourself well."
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
