@@ -29,7 +29,7 @@ My name is Haoyu Zhang (张皓宇). I am currently pursuing a Ph.D. in the Depar
 
 - <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF A</span> [STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization](https://arxiv.org/abs/2505.19547). **Haoyu Zhang**, Wentao Zhang, Hao Miao, Xinke Jiang, Yuchen Fang, Yifan Zhang. **NeurIPS 2025**
 
-- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF B</span> [Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective](https://link.springer.com/chapter/10.1007/978-3-032-06106-5_26). **Haoyu Zhang**, Yuxuan Cheng, Wenqi Fan, Yulong Chen, Yifan Zhang. **ECML-PKDD 2025**
+- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF B</span> [Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective](https://link.springer.com/chapter/10.1007/978-3-032-06106-5_26). **Haoyu Zhang**, Yuxuan Cheng, Wenqi Fan, Yulong Chen, Yifan Zhang. **ECML-PKDD 2025 Oral**
 
 - <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF B, Q1 Top</span> [IMCSN: An improved neighborhood aggregation interaction strategy for multi-scale contrastive Siamese networks](https://www.sciencedirect.com/science/article/pii/S0031320324008033). **Haoyu Zhang**, Daoli Wang, Wangshu Zhao, Zitong Lu, Xuchu Jiang. **Pattern Recognition**
 
