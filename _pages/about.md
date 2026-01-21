@@ -39,9 +39,10 @@ My name is Haoyu Zhang (张皓宇). I am currently pursuing a Ph.D. in the Depar
 
 - <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF A</span> [Time series supplier allocation via deep black-litterman model](https://ojs.aaai.org/index.php/AAAI/article/view/33292). Xinke Jiang, Wentao Zhang, Yuchen Fang, Xiaowei Gao, Hao Chen, Haoyu Zhang, Dingyi Zhuang, Jiayuan Luo. **AAAI 2025 Oral**
 
+- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF B Q1 Top</span> [Contrastive Learning-Based Deep Embedded Clustering and the TCN-DMAttention Model for Traffic Congestion Prediction](https://ieeexplore.ieee.org/document/11237149/). Biao Zhang(Co-first), **Haoyu Zhang(Co-first)**, Wenlin Li, Nisang Chen, Xuchu Jiang. **IEEE Transactions on Intelligent Transportation Systems**
 
-
-
+- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF A</span> [Task-Aware Retrieval Augmentation for Dynamic Recommendation](https://arxiv.org/pdf/2511.12495). Zhen Tao, Xinke Jiang, Qingshuai Feng, Haoyu Zhang, Lun Du, Yuchen Fang, Hao Miao, Bangquan Xie, Qingqiang Sun. **AAAI 2026**
+- 
 # 🎖 Honors and Awards
 
 
