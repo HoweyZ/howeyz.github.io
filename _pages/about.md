@@ -31,7 +31,7 @@ My name is Haoyu Zhang (张皓宇). I am currently pursuing a Ph.D. in the Depar
 
 - <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF C, Q1 Top</span> <span style="background-color: #8B0000; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">IF 7.6</span> [ConUMIP: Continuous-time dynamic graph learning via uncertainty masked mix-up on representation space](https://www.sciencedirect.com/science/article/pii/S0950705124013820). **Haoyu Zhang**, Xuchu Jiang. **Knowledge-Based Systems**
 
-- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF B, Q1 Top</span> <span style="background-color: #8B0000; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">IF 9.5</span> [Contrastive Learning-Based Deep Embedded Clustering and the TCN-DMAttention Model for Traffic Congestion Prediction](https://ieeexplore.ieee.org/document/11237149/). Biao Zhang(Co-first), **Haoyu Zhang(Co-first)**, Wenlin Li, Nisang Chen, Xuchu Jiang. **IEEE Transactions on Intelligent Transportation Systems**
+- <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF B, Q1 Top</span> <span style="background-color: #8B0000; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">IF 9.5</span> [Contrastive Learning-Based Deep Embedded Clustering and the TCN-DMAttention Model for Traffic Congestion Prediction](https://ieeexplore.ieee.org/document/11237149/). Biao Zhang<sup>†</sup>, **Haoyu Zhang<sup>†</sup>**, Wenlin Li, Nisang Chen, Xuchu Jiang. **IEEE Transactions on Intelligent Transportation Systems**
 
 ## Conference Papers
 
@@ -45,8 +45,12 @@ My name is Haoyu Zhang (张皓宇). I am currently pursuing a Ph.D. in the Depar
 
 - <span style="background-color: #003366; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em; font-weight: bold;">CCF A</span> [Task-Aware Retrieval Augmentation for Dynamic Recommendation](https://arxiv.org/pdf/2511.12495). Zhen Tao, Xinke Jiang, Qingshuai Feng, Haoyu Zhang, Lun Du, Yuchen Fang, Hao Miao, Bangquan Xie, Qingqiang Sun. **AAAI 2026**
 
-# 🎖 Honors and Awards
+<br>
 
+<small><sup>†</sup> Co-first authorship. &nbsp;&nbsp; <sup>*</sup> Corresponding Author.</small>
+
+# 🎖 Honors and Awards
+- *2026.05*: &nbsp;🏅 ICML 2026 Gold Reviewer.
 
 # 📖 Educations
 - *2025.09 - present*, Ph.D., Computer Science, City University of Hong Kong, Hong Kong, China.
