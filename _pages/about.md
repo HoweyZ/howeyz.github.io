@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Haoyu Zhang (张皓宇). I am currently pursuing a Ph.D. in the Department of Computer Science at the College of Computing, City University of Hong Kong (September 2025 - present). I completed my undergraduate studies in Financial Mathematics at Zhongnan University of Economics and Law (September 2021 - June 2025). My research interests include spatiotemporal data mining, graph neural networks, AI for science, and large language models.
+My name is Haoyu Zhang (张皓宇). I am currently pursuing a Ph.D. in the Department of Computer Science at the College of Computing, City University of Hong Kong (September 2025 - present). I completed my undergraduate studies in Financial Mathematics at Zhongnan University of Economics and Law (September 2021 - June 2025). Since July 2026, I have been interning as an Algorithm Engineer at Tencent, Shenzhen, focusing on next-generation recommendation systems. My research interests include spatiotemporal data mining, graph neural networks, AI for science, and large language models.
+
 
 
 # 🔥 News
+- *2026.07*: &nbsp;💼 Started internship as an Algorithm Engineer at Tencent, Shenzhen.
 - *2025.09*: &nbsp;🎉🎉 A paper is accepted by NeurIPS 2025.
 
 # 📝 Publications
@@ -56,6 +58,8 @@ My name is Haoyu Zhang (张皓宇). I am currently pursuing a Ph.D. in the Depar
 - *2025.09 - present*, Ph.D., Computer Science, City University of Hong Kong, Hong Kong, China.
 - *2021.09 - 2025.06*, B.Econ, Financial Mathematics, Zhongnan University of Economics and Law, Wuhan, China.
 
+# 💼 Internships
+- *2026.07 - present*, Algorithm Engineer Intern, Tencent, Shenzhen, China. *Focused on next-generation recommendation systems.*
 
 # 👀 Visitors
 
