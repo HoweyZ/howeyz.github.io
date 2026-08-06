@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Haoyu Zhang (张皓宇). I am currently pursuing a Ph.D. in the Department of Computer Science at the College of Computing, City University of Hong Kong (September 2025 - present). I completed my undergraduate studies in Financial Mathematics at Zhongnan University of Economics and Law (September 2021 - June 2025). Since July 2026, I have been interning as an AI Infra Engineer at Tencent, Shenzhen, focusing on AI Infra, including CUDA kernel development and optimization for large-scale model training and inference. My research interests include spatiotemporal data mining, graph neural networks, AI for science, and large language models.
+My name is Haoyu Zhang (张皓宇). I am currently pursuing a Ph.D. in the Department of Computer Science at the College of Computing, City University of Hong Kong (September 2025 - present). I completed my undergraduate studies in Financial Mathematics at Zhongnan University of Economics and Law (September 2021 - June 2025). Since July 2026, I have been interning at Tencent, Shenzhen, focusing on AI Infra, including CUDA kernel development and optimization for large-scale model training and inference. My research interests include spatiotemporal data mining, graph neural networks, AI for science, and large language models.
 
 
 
