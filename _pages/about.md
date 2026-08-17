@@ -10,11 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class="intro-card">
 <p>My name is <strong>Haoyu Zhang</strong> (张皓宇). I am currently pursuing a Ph.D. in the Department of Computer Science at the College of Computing, City University of Hong Kong (September 2025 - present). I completed my undergraduate studies in Financial Mathematics at Zhongnan University of Economics and Law (September 2021 - June 2025). Since July 2026, I have been interning at Tencent, Shenzhen, focusing on AI Infra, including CUDA kernel development and optimization for large-scale model training and inference. My research interests include spatiotemporal data mining, graph neural networks, AI for science, and large language models.</p>
-
-<p class="gs-citations"><i class="fas fa-graduation-cap"></i> <a href='https://scholar.google.com/citations?user=gYMOkGYAAAAJ'>Google Scholar Citations: <strong><span id='total_cit'>0</span></strong></a></p>
-</div>
 
 
 
@@ -26,95 +22,85 @@ redirect_from:
 
 ## Journal Papers
 
-<div class="pub-item">
-  <div class="pub-tags">
-    <span class="pub-badge ccf">CCF B, Q1 Top</span>
-    <span class="pub-badge impact">IF 7.9</span>
-    <span class="pub-venue">Pattern Recognition</span>
-    <span class="show_paper_citations pub-cite" data='gYMOkGYAAAAJ:LkGwnXOMwfcC'></span>
-  </div>
-  <div class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0031320324008033">IMCSN: An improved neighborhood aggregation interaction strategy for multi-scale contrastive Siamese networks</a></div>
-  <div class="pub-authors"><strong>Haoyu Zhang</strong>, Daoli Wang, Wangshu Zhao, Zitong Lu, Xuchu Jiang</div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-tags">
-    <span class="pub-badge ccf">CCF C, Q1 Top</span>
-    <span class="pub-badge impact">IF 7.6</span>
-    <span class="pub-venue">Knowledge-Based Systems</span>
-    <span class="show_paper_citations pub-cite" data='gYMOkGYAAAAJ:hqOjcs7Dif8C'></span>
-  </div>
-  <div class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0950705124013820">ConUMIP: Continuous-time dynamic graph learning via uncertainty masked mix-up on representation space</a></div>
-  <div class="pub-authors"><strong>Haoyu Zhang</strong>, Xuchu Jiang</div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-tags">
-    <span class="pub-badge ccf">CCF B, Q1 Top</span>
-    <span class="pub-badge impact">IF 9.5</span>
-    <span class="pub-venue">IEEE Transactions on Intelligent Transportation Systems</span>
-    <span class="show_paper_citations pub-cite" data='gYMOkGYAAAAJ:hC7cP41nSMkC'></span>
-  </div>
-  <div class="pub-title"><a href="https://ieeexplore.ieee.org/document/11237149/">Contrastive Learning-Based Deep Embedded Clustering and the TCN-DMAttention Model for Traffic Congestion Prediction</a></div>
-  <div class="pub-authors">Biao Zhang<sup>†</sup>, <strong>Haoyu Zhang<sup>†</sup></strong>, Wenlin Li, Nisang Chen, Xuchu Jiang</div>
-</div>
+<ol class="publications">
+  <li>
+    <div class="pub-tags">
+      <span class="pub-badge ccf">CCF B</span>
+      <span class="pub-badge q1">Q1 Top</span>
+      <span class="pub-badge impact">IF 7.9</span>
+      <span class="pub-venue">Pattern Recognition, 2025</span>
+    </div>
+    <div class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0031320324008033">IMCSN: An improved neighborhood aggregation interaction strategy for multi-scale contrastive Siamese networks</a></div>
+    <div class="pub-authors"><strong>Haoyu Zhang</strong>, Daoli Wang, Wangshu Zhao, Zitong Lu, Xuchu Jiang</div>
+  </li>
+  <li>
+    <div class="pub-tags">
+      <span class="pub-badge ccf">CCF C</span>
+      <span class="pub-badge q1">Q1 Top</span>
+      <span class="pub-badge impact">IF 7.6</span>
+      <span class="pub-venue">Knowledge-Based Systems, 2024</span>
+    </div>
+    <div class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0950705124013820">ConUMIP: Continuous-time dynamic graph learning via uncertainty masked mix-up on representation space</a></div>
+    <div class="pub-authors"><strong>Haoyu Zhang</strong>, Xuchu Jiang</div>
+  </li>
+  <li>
+    <div class="pub-tags">
+      <span class="pub-badge ccf">CCF B</span>
+      <span class="pub-badge q1">Q1 Top</span>
+      <span class="pub-badge impact">IF 9.5</span>
+      <span class="pub-venue">IEEE Transactions on Intelligent Transportation Systems, 2026</span>
+    </div>
+    <div class="pub-title"><a href="https://ieeexplore.ieee.org/document/11237149/">Contrastive Learning-Based Deep Embedded Clustering and the TCN-DMAttention Model for Traffic Congestion Prediction</a></div>
+    <div class="pub-authors">Biao Zhang<sup>†</sup>, <strong>Haoyu Zhang<sup>†</sup></strong>, Wenlin Li, Nisang Chen, Xuchu Jiang</div>
+  </li>
+</ol>
 
 ## Conference Papers
 
-<div class="pub-item">
-  <div class="pub-tags">
-    <span class="pub-badge ccf">CCF A</span>
-    <span class="pub-venue">NeurIPS 2025</span>
-    <span class="show_paper_citations pub-cite" data='gYMOkGYAAAAJ:j3f4tGmQtD8C'></span>
-  </div>
-  <div class="pub-title"><a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/ab062c6281873221743383f9619e07d2-Abstract-Conference.html">STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization</a></div>
-  <div class="pub-authors"><strong>Haoyu Zhang</strong>, Wentao Zhang, Hao Miao, Xinke Jiang, Yuchen Fang, Yifan Zhang</div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-tags">
-    <span class="pub-badge ccf">CCF B</span>
-    <span class="pub-badge oral">🏆 Oral</span>
-    <span class="pub-venue">ECML-PKDD 2025</span>
-    <span class="show_paper_citations pub-cite" data='gYMOkGYAAAAJ:hFOr9nPyWt4C'></span>
-  </div>
-  <div class="pub-title"><a href="https://link.springer.com/chapter/10.1007/978-3-032-06106-5_26">Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective</a></div>
-  <div class="pub-authors"><strong>Haoyu Zhang</strong>, Yuxuan Cheng, Wenqi Fan, Yulong Chen, Yifan Zhang</div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-tags">
-    <span class="pub-badge ccf">CCF A</span>
-    <span class="pub-badge oral">🏆 Oral</span>
-    <span class="pub-venue">ACL 2025</span>
-    <span class="show_paper_citations pub-cite" data='gYMOkGYAAAAJ:-f6ydRqryjwC'></span>
-  </div>
-  <div class="pub-title"><a href="https://aclanthology.org/2025.acl-long.558/">TC-RAG: Turing-Complete RAG's case study on medical llm systems</a></div>
-  <div class="pub-authors">Xinke Jiang<sup>†</sup>, Yue Fang<sup>†</sup>, Rihong Qiu<sup>†</sup>, <strong>Haoyu Zhang</strong>, Yongxin Xu, Hao Chen, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang</div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-tags">
-    <span class="pub-badge ccf">CCF A</span>
-    <span class="pub-badge oral">🏆 Oral</span>
-    <span class="pub-venue">AAAI 2025</span>
-    <span class="show_paper_citations pub-cite" data='gYMOkGYAAAAJ:4TOpqqG69KYC'></span>
-  </div>
-  <div class="pub-title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33292">Time series supplier allocation via deep black-litterman model</a></div>
-  <div class="pub-authors">Xinke Jiang, Wentao Zhang, Yuchen Fang, Xiaowei Gao, Hao Chen, <strong>Haoyu Zhang</strong>, Dingyi Zhuang, Jiayuan Luo</div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-tags">
-    <span class="pub-badge ccf">CCF A</span>
-    <span class="pub-venue">AAAI 2026</span>
-    <span class="show_paper_citations pub-cite" data='gYMOkGYAAAAJ:qUcmZB5y_30C'></span>
-  </div>
-  <div class="pub-title"><a href="https://arxiv.org/pdf/2511.12495">Task-Aware Retrieval Augmentation for Dynamic Recommendation</a></div>
-  <div class="pub-authors">Zhen Tao, Xinke Jiang, Qingshuai Feng, <strong>Haoyu Zhang</strong>, Lun Du, Yuchen Fang, Hao Miao, Bangquan Xie, Qingqiang Sun</div>
-</div>
-
-<br>
+<ol class="publications">
+  <li>
+    <div class="pub-tags">
+      <span class="pub-badge ccf">CCF A</span>
+      <span class="pub-venue">NeurIPS 2025</span>
+    </div>
+    <div class="pub-title"><a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/ab062c6281873221743383f9619e07d2-Abstract-Conference.html">STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization</a></div>
+    <div class="pub-authors"><strong>Haoyu Zhang</strong>, Wentao Zhang, Hao Miao, Xinke Jiang, Yuchen Fang, Yifan Zhang</div>
+  </li>
+  <li>
+    <div class="pub-tags">
+      <span class="pub-badge ccf">CCF B</span>
+      <span class="pub-badge oral">Oral</span>
+      <span class="pub-venue">ECML-PKDD 2025</span>
+    </div>
+    <div class="pub-title"><a href="https://link.springer.com/chapter/10.1007/978-3-032-06106-5_26">Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective</a></div>
+    <div class="pub-authors"><strong>Haoyu Zhang</strong>, Yuxuan Cheng, Wenqi Fan, Yulong Chen, Yifan Zhang</div>
+  </li>
+  <li>
+    <div class="pub-tags">
+      <span class="pub-badge ccf">CCF A</span>
+      <span class="pub-badge oral">Oral</span>
+      <span class="pub-venue">ACL 2025</span>
+    </div>
+    <div class="pub-title"><a href="https://aclanthology.org/2025.acl-long.558/">TC-RAG: Turing-Complete RAG's case study on medical llm systems</a></div>
+    <div class="pub-authors">Xinke Jiang<sup>†</sup>, Yue Fang<sup>†</sup>, Rihong Qiu<sup>†</sup>, <strong>Haoyu Zhang</strong>, Yongxin Xu, Hao Chen, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang</div>
+  </li>
+  <li>
+    <div class="pub-tags">
+      <span class="pub-badge ccf">CCF A</span>
+      <span class="pub-venue">AAAI 2025</span>
+    </div>
+    <div class="pub-title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33292">Time series supplier allocation via deep black-litterman model</a></div>
+    <div class="pub-authors">Xinke Jiang, Wentao Zhang, Yuchen Fang, Xiaowei Gao, Hao Chen, <strong>Haoyu Zhang</strong>, Dingyi Zhuang, Jiayuan Luo</div>
+  </li>
+  <li>
+    <div class="pub-tags">
+      <span class="pub-badge ccf">CCF A</span>
+      <span class="pub-venue">AAAI 2026</span>
+    </div>
+    <div class="pub-title"><a href="https://arxiv.org/pdf/2511.12495">Task-Aware Retrieval Augmentation for Dynamic Recommendation</a></div>
+    <div class="pub-authors">Zhen Tao, Xinke Jiang, Qingshuai Feng, <strong>Haoyu Zhang</strong>, Lun Du, Yuchen Fang, Hao Miao, Bangquan Xie, Qingqiang Sun</div>
+  </li>
+</ol>
 
 <small><sup>†</sup> Co-first authorship. &nbsp;&nbsp; <sup>*</sup> Corresponding Author.</small>
 
