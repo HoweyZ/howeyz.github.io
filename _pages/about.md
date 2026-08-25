@@ -34,7 +34,7 @@ redirect_from:
     <span class="pub-badge ccf">CCF B, Q1 Top, IF 9.9</span>
     <span class="pub-authors">Yunfei Xie, Yuxuan Cheng, Juncheng Wu, <strong>Haoyu Zhang</strong>, Yuyin Zhou, Shoudong Han.</span>
     <span class="pub-title"><a href="https://arxiv.org/abs/2507.00506">SCING: Towards More Efficient and Robust Person Re-Identification through Selective Cross-Modal Prompt Tuning</a>.</span>
-    <span class="pub-venue"><em>IEEE Transactions on Multimedia</em>, 2025.</span>
+    <span class="pub-venue"><em>IEEE Transactions on Multimedia</em>, 2026.</span>
   </li>
   <li>
     <span class="pub-badge ccf">CCF B, Q1 Top, IF 7.9</span>
