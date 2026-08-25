@@ -15,6 +15,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 A paper is accepted by IEEE TPAMI.
 - *2026.07*: &nbsp;💼 Started internship at Tencent, Shenzhen.
 - *2025.09*: &nbsp;🎉🎉 A paper is accepted by NeurIPS 2025.
 
@@ -23,6 +24,16 @@ redirect_from:
 ## Journal Papers
 
 <ol class="publications">
+  <li>
+    <div class="pub-tags">
+      <span class="pub-badge ccf">CCF A</span>
+      <span class="pub-badge q1">Q1 Top</span>
+      <span class="pub-badge impact">IF 20.8</span>
+      <span class="pub-venue">IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026</span>
+    </div>
+    <div class="pub-title">Pattern in Motion: Retrieval-Augmented Learning for Dynamic Spatio-Temporal Graphs</div>
+    <div class="pub-authors"><strong>Haoyu Zhang</strong>, Xinke Jiang, Wentao Zhang, Yuchen Fang, Hao Miao, Yifan Zhang, Heqing Huang</div>
+  </li>
   <li>
     <div class="pub-tags">
       <span class="pub-badge ccf">CCF B</span>
