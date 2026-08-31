@@ -78,7 +78,7 @@ redirect_from:
     <span class="pub-venue"><em>ACL</em>, 2025.</span>
   </li>
   <li>
-    <span class="pub-badge ccf">CCF A</span>
+    <span class="pub-badge ccf">CCF A, Oral</span>
     <span class="pub-authors">Xinke Jiang, Wentao Zhang, Yuchen Fang, Xiaowei Gao, Hao Chen, <strong>Haoyu Zhang</strong>, Dingyi Zhuang, Jiayuan Luo<sup>*</sup>.</span>
     <span class="pub-title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33292">Time series supplier allocation via deep black-litterman model</a>.</span>
     <span class="pub-venue"><em>AAAI</em>, 2025.</span>
