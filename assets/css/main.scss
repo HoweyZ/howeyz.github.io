@@ -136,6 +136,14 @@ h1:before, .anchor:before {
   font-size: 1em;
 }
 
+/* Experience logo (e.g. Tencent wordmark) */
+.exp-logo {
+  height: 1.9em;
+  width: auto;
+  vertical-align: middle;
+  margin-right: 0.5em;
+}
+
 /* Visitor counter */
 .visitor-counter {
   margin: 1em 0;
@@ -219,6 +227,28 @@ h1:before, .anchor:before {
   color: #1d4f91;
   font-weight: 600;
   font-style: italic;
+}
+
+/* Oral highlight — static gradient text with star */
+.pub-oral {
+  display: inline-block;
+  font-weight: 800;
+  font-style: italic;
+  letter-spacing: 0.03em;
+  background: linear-gradient(100deg, #d32f2f 0%, #ff7043 50%, #d32f2f 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #d32f2f;
+
+  &::before {
+    content: "✦";
+    margin-right: 0.3em;
+    font-size: 0.85em;
+    font-style: normal;
+    color: #ff8f3f;
+    -webkit-text-fill-color: #ff8f3f;
+  }
 }
 
 .pub-title {

@@ -66,22 +66,22 @@ redirect_from:
     <span class="pub-venue"><em>NeurIPS</em>, 2025.</span>
   </li>
   <li>
-    <span class="pub-badge ccf">CCF B, Oral</span>
+    <span class="pub-badge ccf">CCF B</span>
     <span class="pub-authors"><strong>Haoyu Zhang</strong>, Yuxuan Cheng, Wenqi Fan, Yulong Chen, Yifan Zhang<sup>*</sup>.</span>
     <span class="pub-title"><a href="https://link.springer.com/chapter/10.1007/978-3-032-06106-5_26">Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective</a>.</span>
-    <span class="pub-venue"><em>ECML-PKDD</em>, 2025.</span>
+    <span class="pub-venue"><em>ECML-PKDD</em>, 2025. <span class="pub-oral">Oral</span></span>
   </li>
   <li>
-    <span class="pub-badge ccf">CCF A, Oral</span>
+    <span class="pub-badge ccf">CCF A</span>
     <span class="pub-authors">Xinke Jiang<sup>†</sup>, Yue Fang<sup>†</sup>, Rihong Qiu<sup>†</sup>, <strong>Haoyu Zhang</strong>, Yongxin Xu, Hao Chen, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xu Chu, Junfeng Zhao, Yasha Wang<sup>*</sup>.</span>
     <span class="pub-title"><a href="https://aclanthology.org/2025.acl-long.558/">TC-RAG: Turing-Complete RAG's case study on medical llm systems</a>.</span>
-    <span class="pub-venue"><em>ACL</em>, 2025.</span>
+    <span class="pub-venue"><em>ACL</em>, 2025. <span class="pub-oral">Oral</span></span>
   </li>
   <li>
-    <span class="pub-badge ccf">CCF A, Oral</span>
+    <span class="pub-badge ccf">CCF A</span>
     <span class="pub-authors">Xinke Jiang, Wentao Zhang, Yuchen Fang, Xiaowei Gao, Hao Chen, <strong>Haoyu Zhang</strong>, Dingyi Zhuang, Jiayuan Luo<sup>*</sup>.</span>
     <span class="pub-title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33292">Time series supplier allocation via deep black-litterman model</a>.</span>
-    <span class="pub-venue"><em>AAAI</em>, 2025.</span>
+    <span class="pub-venue"><em>AAAI</em>, 2025. <span class="pub-oral">Oral</span></span>
   </li>
   <li>
     <span class="pub-badge ccf">CCF A</span>
@@ -101,7 +101,7 @@ redirect_from:
 - *2021.09 - 2025.06*, B.Econ, Financial Mathematics, Zhongnan University of Economics and Law, Wuhan, China.
 
 # 💼 Internships
-- *2026.07 - present*, Algorithm Engineer Intern, Tencent, Shenzhen, China.
+- <img class="exp-logo" src="{{ site.baseurl }}/images/tencent-wordmark.png" alt="Tencent 腾讯"> *2026.07 - present*, Algorithm Engineer Intern, Tencent, Shenzhen, China.
 
 # 👀 Visitors
 
