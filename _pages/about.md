@@ -19,7 +19,7 @@ redirect_from:
 - *2026.07*: &nbsp;💼 Started internship at Tencent, Shenzhen.
 - *2025.09*: &nbsp;🎉🎉 A paper is accepted by NeurIPS 2025.
 
-# 📝 Publications
+# 📝 Publications <a class="gs-cite-badge" href="https://scholar.google.com/citations?user=gYMOkGYAAAAJ&hl=zh-CN" target="_blank" rel="noopener"><i class="fas fa-graduation-cap"></i> Google Scholar Citations: <span id="total_cit">—</span></a>
 
 ## Journal Papers
 
@@ -70,6 +70,12 @@ redirect_from:
     <span class="pub-authors"><strong>Haoyu Zhang</strong>, Yuxuan Cheng, Wenqi Fan, Yulong Chen, Yifan Zhang<sup>*</sup>.</span>
     <span class="pub-title"><a href="https://link.springer.com/chapter/10.1007/978-3-032-06106-5_26">Rethinking Graph Domain Adaptation: A Spectral Contrastive Perspective</a>.</span>
     <span class="pub-venue"><em>ECML-PKDD</em>, 2025. <span class="pub-oral">Oral</span></span>
+  </li>
+  <li>
+    <span class="pub-badge ccf">CCF A</span>
+    <span class="pub-authors">Yulong Chen<sup>†</sup>, Xiaoyun Dong<sup>†</sup>, <strong>Haoyu Zhang<sup>†</sup></strong>, Zongxian Yang, Lewei Xie, Xinke Li<sup>*</sup>, Yifan Zhang<sup>*</sup>, Kai Wang<sup>*</sup>, Jianping Wang.</span>
+    <span class="pub-title"><a href="https://arxiv.org/abs/2605.07910">One World, Dual Timeline: Decoupled Spatio-Temporal Gaussian Scene Graph for 4D Cooperative Driving Reconstruction</a>.</span>
+    <span class="pub-venue"><em>NeurIPS</em>, 2026.</span>
   </li>
   <li>
     <span class="pub-badge ccf">CCF A</span>

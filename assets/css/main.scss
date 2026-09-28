@@ -270,23 +270,56 @@ h1:before, .anchor:before {
 .pub-authors {
   font-size: 0.95em;
   color: #444;
+  font-style: italic;
 
   strong {
     color: #1a1a1a;
   }
 }
 
-/* Paper badges (gradient style) */
-.pub-badge {
+/* Paper badges (red italic, in brackets) */
+.pub-badge,
+.gs-cite-badge {
   display: inline-block;
-  margin-left: 0.35em;
-  padding: 1px 9px;
-  border-radius: 0;
-  font-size: 0.72em;
+  margin-right: 0.55em;
+  font-size: 0.9em;
   font-weight: 600;
-  color: #fff;
-  line-height: 1.6;
+  font-style: italic;
+  color: #c0392b;
   white-space: nowrap;
-  vertical-align: 0.1em;
-  background: linear-gradient(135deg, #1e4d8f, #122f5c);
+  vertical-align: 0.05em;
+
+  &::before {
+    content: "[";
+    margin-right: 0.08em;
+  }
+
+  &::after {
+    content: "]";
+    margin-left: 0.08em;
+  }
+}
+
+/* Google Scholar citation badge next to the Publications heading */
+.gs-cite-badge {
+  text-decoration: none;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: #8c2b21;
+    text-decoration: underline;
+  }
+}
+
+.page__content h1 .gs-cite-badge {
+  font-size: 0.6em;
+  font-weight: 500;
+  margin-left: 0.6em;
+  margin-right: 0;
+  vertical-align: 0.2em;
+  color: #1d4f91;
+
+  &:hover {
+    color: #123a6b;
+  }
 }
