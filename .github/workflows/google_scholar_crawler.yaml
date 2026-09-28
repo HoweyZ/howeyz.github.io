@@ -1,8 +1,12 @@
 name: Get Citation Data
 
 on:
-  schedule:
-    - cron:  '27 2 * * 1'
+  # Weekly schedule disabled: Google blocks GitHub Actions runner IPs (HTTP 403).
+  # The citation count is updated weekly on the local machine instead, via the
+  # LaunchAgent com.howeyz.scholar-citations
+  # (see google_scholar_crawler/update_and_push.sh).
+  # schedule:
+  #   - cron: '27 2 * * 1'
   workflow_dispatch:
 
 permissions:
